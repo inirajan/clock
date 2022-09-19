@@ -12,7 +12,7 @@ int main(){
         printf(" ERROR ! \n");
         exit("0");
     }
-    while(1){                 // ffor infnity loop
+    while(1){                 // for infnity loop
         s++;
         if(s>59){
             m++;
